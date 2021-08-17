@@ -5,7 +5,8 @@
 ## Tech-Stack 
 
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" height="32" /> <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" height="32" /> <img src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" height="32" /> <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" height="32" /> <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" height="32" /> <img 
-src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" height="32" /> <img         
+src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" height="32" /> <img
+src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" height="32" /> <img                                             
 src="https://raw.githubusercontent.com/github/explore/master/topics/wordpress/wordpress.png" height="32" /> <img                                                                   src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" height="32" /><img src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" height="32" /> <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" height="32" /> <img src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" height="32" /> <img src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" height="32" /> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinanDumandzha&layout=compact)](https://github.com/SinanDumandzha/github-readme-stats)
