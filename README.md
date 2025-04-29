@@ -1,5 +1,4 @@
-
-# 👋 Hello, I'm **Sinan Dumandzha**!
+![1f96f8c9-2726-4db1-b107-3e16cf1d9c1f](https://github.com/user-attachments/assets/3069910d-6a60-45fb-9108-2b8b8f2721f8)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Code+with+purpose,;test+with+passion,;build+for+tomorrow." alt="Typing SVG" /></a>
 
