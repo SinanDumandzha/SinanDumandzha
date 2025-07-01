@@ -51,6 +51,9 @@
 ![Databricks](https://img.shields.io/badge/-Databricks-000?&logo=databricks)
 ![PySpark](https://img.shields.io/badge/-PySpark-000?&logo=apachespark)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
+![Singer](https://img.shields.io/badge/-Singer.io-000000?style=flat&logo=data&logoColor=white)
+![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-000?&logo=powerbi)
 ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=tableau)
 
